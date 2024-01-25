@@ -1,0 +1,38 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 5px;
+
+    border-bottom: 2px solid #2c3e50;
+}
+
+.logo{
+
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+
+}
+
+.search-bar-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-button{
+    padding: 6px 10px;
+    background-color: #2ecc71;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+.user-icon{
+    width: 120px;
+    height:120px;
+    object-fit: contain;
+    cursor: pointer;
+}

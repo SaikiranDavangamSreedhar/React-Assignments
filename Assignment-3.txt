@@ -1,0 +1,16 @@
+Topics:-
+
+
+JSX-
+
+JSX is a syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file. Although there are other ways to write components, most React developers prefer the conciseness of JSX, and most codebases use it.
+The Web has been built on HTML, CSS, and JavaScript. For many years, web developers kept content in HTML, design in CSS, and logic in JavaScript—often in separate files! Content was marked up inside HTML while the page’s logic lived separately in JavaScript:
+
+Each React component is a JavaScript function that may contain some markup that React renders into the browser. React components use a syntax extension called JSX to represent that markup. JSX looks a lot like HTML, but it is a bit stricter and can display dynamic information. The best way to understand this is to convert some HTML markup to JSX markup.
+
+React.createElement vs JSX:-
+
+React.createElement and JSX are both concepts in React that are closely related. JSX (JavaScript XML) is a syntax extension for JavaScript recommended by React for describing what the UI should look like. It looks similar to XML/HTML but is used to represent React elements.
+
+
+
